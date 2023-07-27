@@ -141,11 +141,6 @@
             "id": 4,
             "ime": "Aleksandar",
             "prezime": "Markovic"
-        },
-        {
-            "id": 5,
-            "ime": "Ognjen",
-            "prezime": "Markovic"
         }
     ],
     "zanrovi" : [
