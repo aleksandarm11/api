@@ -136,6 +136,11 @@
             "id": 3,
             "ime": "Haruki",
             "prezime": "Murakami"
+        },
+        {
+            "id": 4.
+            "ime": "Aleksandar".
+            "prezime": "Markovic"
         }
     ],
     "zanrovi" : [
